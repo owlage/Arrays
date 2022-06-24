@@ -28,10 +28,10 @@ public class NumberTwo {
         System.out.println("Enter the length of the array");
         int[] array2 = new int[Util.scannerNumber()];
         numberTwo.setZ(Util.scannerNumber());
-        System.out.print("Array: ");
         Util.arrayFillIn(array2);
         System.out.print("Number of operations: ");
         System.out.println(numberTwo.sumMethod(array2));
+        System.out.println("Array:");
         Util.arrayShow(array2);
 
     }

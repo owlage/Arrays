@@ -28,7 +28,6 @@ public class NumberOne {
         int[] array = new int[Util.scannerNumber()];
         System.out.println("Enter a multiple");
         numberOne.setMultiple(Util.scannerNumber());
-        System.out.print("Array: ");
         Util.arrayFillIn(array);
         System.out.print("Sum of elements = ");
         System.out.println(numberOne.multiplicity(array));
