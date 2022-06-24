@@ -1,6 +1,6 @@
 public class NumberFour {
 
-    //4. Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы.
+    //4. Real numbers a1 ,a2 ,...,an are given. Swap the largest and smallest elements.
 
     private int numMax = 0, numMin;
 

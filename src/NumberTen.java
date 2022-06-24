@@ -1,7 +1,7 @@
 public class NumberTen {
 
-    //10. Дан целочисленный массив с количеством элементов п. Сжать массив, выбросив из него каждый второй элемент
-    // (освободившиеся элементы заполнить нулями).
+    //10. An integer array with n elements is given. Shrink the array by removing every second element from it.
+    // (fill freed elements with zeros).
 
     private int[] arrayDivided;
     private int[] arrayZero;
