@@ -14,7 +14,7 @@ EN: Tasks:
 11. Given a matrix. Display all odd columns whose first element is greater than the last.
 12. Given a square matrix. Display the elements that are on the diagonal.
 13. Given a matrix. Print the k-th row and p-th column of the matrix.
-14. Form a square matrix of order n according to a given pattern (n is even)
+14. Form a square matrix of order n according to a given pattern (n is even):
     1  2   3  ... n
     n n-1 n-2 ... 1
     1  2   3  ... n
